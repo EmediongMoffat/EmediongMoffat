@@ -7,7 +7,7 @@ Hi, I'm Emediong. <img src="https://raw.githubusercontent.com/MartinHeinz/Martin
 </h1>
 
       
-### I am a Software Engineer | AI Agent Developer. `I learn by doing....`
+### I am a Robotics and Automation Engineer | Control and system Engineering. `I learn by doing....`
 
 ![](https://komarev.com/ghpvc/?username=lordwill1&style=for-the-badge&color=blue&labelColor=000000)<a href="https://www.github.com/lordwill1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/lordwill1?logo=github&style=for-the-badge&color=0C7DBE&labelColor=000000" /></a><a href="https://www.twitter.com/iamlordwill" target="_blank" rel="noreferrer"><img
