@@ -11,7 +11,7 @@ Hi, I'm Emediong. <img src="https://raw.githubusercontent.com/MartinHeinz/Martin
 
 ![](https://komarev.com/ghpvc/?username=EmediongMoffat&style=for-the-badge&color=blue&labelColor=000000)<a href="https://www.github.com/EmediongMoffat" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/EmediongMoffat?logo=github&style=for-the-badge&color=0C7DBE&labelColor=000000" /></a><a href="https://x.com/Eminentsq777" target="_blank" rel="noreferrer"><img 
-src="https://img.shields.io/twitter/follow/Eminentsq777?logo=twitter&style=for-the-badge&color=0C7DBE&labelColor=000000">
+src="https://img.shields.io/twitter/follow/Eminentsq777?logo=twitter&style=for-the-badge&color=0C7DBE&labelColor=000000"/>
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+447831018555)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
