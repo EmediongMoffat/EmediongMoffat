@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+LORDWILL;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hello+There!;I+Design+And+Simulate+Control+Systems;I+Code+Automation+And+Embedded+Solutions;I+Love+Solving+Real+World+Problems;Always+Learning+Always+Building)](https://git.io/typing-svg)
 
 <h1 align="center">
 Hi, I'm Emediong. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
@@ -9,11 +9,10 @@ Hi, I'm Emediong. <img src="https://raw.githubusercontent.com/MartinHeinz/Martin
       
 ### I am a Robotics and Automation Engineer | Control and system Engineer. `I learn by doing....`
 
-![](https://komarev.com/ghpvc/?username=lordwill1&style=for-the-badge&color=blue&labelColor=000000)<a href="https://www.github.com/lordwill1" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/lordwill1?logo=github&style=for-the-badge&color=0C7DBE&labelColor=000000" /></a><a href="https://x.com/Eminentsq777" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/iamlordwill?logo=twitter&style=for-the-badge&color=0C7DBE&labelColor=000000"
-/></a>[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://lordwill.netlify.app/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2348162887537)
+![](https://komarev.com/ghpvc/?username=EmediongMoffat&style=for-the-badge&color=blue&labelColor=000000)<a href="https://www.github.com/EmediongMoffat" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/EmediongMoffat?logo=github&style=for-the-badge&color=0C7DBE&labelColor=000000" /></a><a href="https://x.com/Eminentsq777" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Eminentsq777?logo=twitter&style=for-the-badge&color=0C7DBE&labelColor=000000"
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+447831018555)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 - #### 🤖 I Build and Develop Control Systems | MATLAB & Simulink Modelling | Embedded Systems (Arduino, C++) | System Identification | Real Time Automation & Monitoring
