@@ -16,8 +16,9 @@ src="https://img.shields.io/twitter/follow/iamlordwill?logo=twitter&style=for-th
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2348162887537)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-- #### 🔭 I Build and Develop AI bots | chat | call | Agentic A.I.
-- #### 👯 I’m open to collaborate on Software Engineering projects.
+- #### 🤖 I Build and Develop Control Systems | MATLAB & Simulink Modelling | Embedded Systems (Arduino, C++) | System Identification | Real Time Automation & Monitoring
+
+- #### 💻 I'm open to collaborate on Control Systems, Robotics and Mechatronics Engineering projects involving simulation, optimisation and intelligent automation..
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
